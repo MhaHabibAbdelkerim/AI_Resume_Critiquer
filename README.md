@@ -59,7 +59,6 @@ python-dotenv
 
 ## 🙏 Acknowledgements
 Inspired by YouTube tutorial by https://www.youtube.com/@TechWithTim
-Code patterns adapted and customized independently for this project.
 
 ## Notes
 
