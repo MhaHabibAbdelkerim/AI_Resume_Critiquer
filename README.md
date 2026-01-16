@@ -18,7 +18,6 @@ This project leverages the **OpenAI GPT-4o-mini** model to analyze resumes and p
 
 ```bash
 git clone https://github.com/MhaHabibAbdelkerim/AI_Resume_Critiquer.git
-cd AI_Resume_Critiquer
 ```
 
 ## Install dependencies
@@ -68,3 +67,4 @@ Inspired by YouTube tutorial by https://www.youtube.com/@TechWithTim
 
 ## 🧑‍💻 Author
 Abdelkerim | GitHub: MhaHabibAbdelkerim
+AI and Data Science Student
