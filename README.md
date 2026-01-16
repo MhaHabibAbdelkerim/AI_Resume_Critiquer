@@ -1,5 +1,7 @@
 # 📃 AI Resume Analyzer
 
+___
+
 AI Resume Analyzer is a Streamlit web application that allows users to upload their resumes in PDF format and receive **AI-powered constructive feedback**. The feedback focuses on clarity, relevance to job descriptions, skills presentation, experience presentation, and overall formatting.  
 
 This project leverages the **OpenAI GPT-4o-mini** model to analyze resumes and provide actionable suggestions for improvement.
@@ -49,10 +51,15 @@ AI_Resume_Critiquer/
 │
 
 ├──.env # Contains your OpenAI API key (do NOT push this to GitHub)
+
 ├── .env.example # Example environment file without sensitive data
+
 ├── .gitignore # To ignore .env and other files
+
 ├── main.py # Main Streamlit application
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ___ 
