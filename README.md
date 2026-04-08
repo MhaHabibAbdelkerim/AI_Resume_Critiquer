@@ -71,9 +71,6 @@ ___
 * openai
 * python-dotenv
 
-## 🙏 Acknowledgements
-Inspired by YouTube tutorial by https://www.youtube.com/@TechWithTim
-
 ## Notes
 
 * Make sure your OpenAI API key is valid and stored in the .env file.
